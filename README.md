@@ -37,4 +37,4 @@ A full-stack appointment booking app where customers can browse services, book t
 4. Open http://localhost:5173
 
 ## Author
-Annie, [link to your GitHub profile]
+Annie, Annie, [GitHub](https://github.com/AnneSparklesl)
